@@ -22,4 +22,6 @@
 
 最后将本地仓库的内容提交到github远程仓库。
 
+> git push -u origin master
+
 
