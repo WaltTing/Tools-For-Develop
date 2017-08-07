@@ -5,12 +5,12 @@
 `Tools - Options - Markdown Processor` 选择Markdown(extra）。
 
 然后输入
-  
-    djkfhjkdhsfsdf        
-	key1|key2|key3   
- 	- | - | - |-
-	value1|value2|value3  
-	value12|value22|value23   
+          
+
+       key1    |  key2   | key3   
+       ------  | ------  | ------  
+       value1  | value2  | value3  
+       value12 | value22 | value23    
 
      
 
