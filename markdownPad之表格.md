@@ -17,7 +17,9 @@
 执行后的效果是：
 
    
-key1|key2|key3   
-- | - | - 
-value1|value2|value3  
-value12|value22|value23 
+key1    |  key2   | key3   
+------  | ------  | ------
+value1  | value2  | value3  
+value12 | value22 | value23 
+
+参考：[1] [http://markdownpad.com/faq.html#markdown-tables](http://markdownpad.com/faq.html#markdown-tables)
