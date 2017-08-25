@@ -8,4 +8,5 @@
 [2] [markdownPad之表格](https://github.com/WaltTing/Tools-For-Develop/blob/master/markdownPad%E4%B9%8B%E8%A1%A8%E6%A0%BC.md)  
 [3] [markdownPad表格输入符号或](https://github.com/WaltTing/Tools-For-Develop/blob/master/markdownPad%E8%A1%A8%E6%A0%BC%E8%BE%93%E5%85%A5%E7%AC%A6%E5%8F%B7%E6%88%96.md)   
 [4] [WebStorm浏览器404错误](https://github.com/WaltTing/Tools-For-Develop/blob/master/WebStorm%E6%B5%8F%E8%A7%88%E5%99%A8404%E9%94%99%E8%AF%AF.md)   
-[5] [WebStorm配置JS开发环境](https://github.com/WaltTing/Tools-For-Develop/blob/master/WebStorm%E9%85%8D%E7%BD%AEJS%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83.md)
+[5] [WebStorm配置JS开发环境](https://github.com/WaltTing/Tools-For-Develop/blob/master/WebStorm%E9%85%8D%E7%BD%AEJS%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83.md)   
+[6] [MyEclipse8.5生成注册码](https://github.com/WaltTing/Tools-For-Develop/blob/master/MyEclipse8.5%E7%94%9F%E6%88%90%E6%B3%A8%E5%86%8C%E7%A0%81.java)
