@@ -3,12 +3,12 @@
 ## 1.创建本地仓库
 在任意文件夹下：
 
-> git clone "仓库路径"
+	git clone "仓库路径"
 
 比如：我的github仓库Tools-For-Develop的url是 [https://github.com/WaltTing/Tools-For-Develop](https://github.com/WaltTing/Tools-For-Develop)。
 那么我可以这样：
 
-> git clone https://github.com/WaltTing/Tools-For-Develop
+	git clone https://github.com/WaltTing/Tools-For-Develop
 
 这样就会在本地上检出那个仓库的文件。
 
