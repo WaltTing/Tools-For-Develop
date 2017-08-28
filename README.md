@@ -11,5 +11,5 @@
 [5] [WebStorm配置JS开发环境](https://github.com/WaltTing/Tools-For-Develop/blob/master/WebStorm%E9%85%8D%E7%BD%AEJS%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83.md)   
 [6] [MyEclipse8.5生成注册码](https://github.com/WaltTing/Tools-For-Develop/blob/master/MyEclipse8.5%E7%94%9F%E6%88%90%E6%B3%A8%E5%86%8C%E7%A0%81.java)   
 [7] [OJ输入输出（C语言、java、javascript）](https://github.com/WaltTing/Tools-For-Develop/tree/master/OJ%E8%BE%93%E5%85%A5%E8%BE%93%E5%87%BA%EF%BC%88C%E8%AF%AD%E8%A8%80%E3%80%81java%E3%80%81javascript%EF%BC%89)  
-[8] Markdown常用语法指南   
-[9] 用README.md为仓库创建目录
+[8] [Markdown常用语法指南](https://github.com/WaltTing/Tools-For-Develop/blob/master/Markdown%E5%B8%B8%E7%94%A8%E8%AF%AD%E6%B3%95%E6%8C%87%E5%8D%97.md)   
+[9] [用Git来上传操作本地的文章](https://github.com/WaltTing/Tools-For-Develop/blob/master/%E7%94%A8Git%E6%9D%A5%E4%B8%8A%E4%BC%A0%E6%93%8D%E4%BD%9C%E6%9C%AC%E5%9C%B0%E7%9A%84%E6%96%87%E7%AB%A0.md)
