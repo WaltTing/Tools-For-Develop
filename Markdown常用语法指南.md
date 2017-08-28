@@ -16,7 +16,7 @@
 5. [文字引用](https://github.com/WaltTing/Tools-For-Develop/blob/master/Markdown%E5%B8%B8%E7%94%A8%E8%AF%AD%E6%B3%95%E6%8C%87%E5%8D%97.md#5文字引用)
 6. [代码块](https://github.com/WaltTing/Tools-For-Develop/blob/master/Markdown%E5%B8%B8%E7%94%A8%E8%AF%AD%E6%B3%95%E6%8C%87%E5%8D%97.md#6代码块)  
 	 6.1 [行内代码 ](https://github.com/WaltTing/Tools-For-Develop/blob/master/Markdown%E5%B8%B8%E7%94%A8%E8%AF%AD%E6%B3%95%E6%8C%87%E5%8D%97.md#61-行内代码)    
-	 6.2 多行代码  
+	 6.2 [多行代码](https://github.com/WaltTing/Tools-For-Develop/blob/master/Markdown%E5%B8%B8%E7%94%A8%E8%AF%AD%E6%B3%95%E6%8C%87%E5%8D%97.md#62-多行代码)  
 
 ---
 ## 1.分级标题
