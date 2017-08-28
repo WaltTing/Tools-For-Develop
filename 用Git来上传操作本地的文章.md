@@ -29,7 +29,7 @@
 
 第三步：将本地commit的代码更新到远程版本库
 
-	git push origin master
+	git push -u origin master
 
 ## *3.其他的操作
 
