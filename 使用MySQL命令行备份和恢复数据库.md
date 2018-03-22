@@ -1,0 +1,1 @@
+[使用MySQL 命令行备份和恢复数据库](http://blog.csdn.net/Revered_Mars/article/details/78614610?locationNum=5&fps=1 "使用MySQL命令行备份及恢复数据库")
